@@ -1,0 +1,1079 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a paper published by one Bateman against the mine-adventure by a new adventurer.</title>
+            <author>New adventurer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25541</idno>
+            <idno type="STC">Wing A3333</idno>
+            <idno type="STC">ESTC R29592</idno>
+            <idno type="EEBO-CITATION">11174952</idno>
+            <idno type="OCLC">ocm 11174952</idno>
+            <idno type="VID">46546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25541)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1434:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a paper published by one Bateman against the mine-adventure by a new adventurer.</title>
+                  <author>New adventurer.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Refutes Bateman's business advice to partners in a Welsh mine; uses a letter by Bateman to Sir Christopher Wren as proof.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bateman, Thomas.</term>
+               <term>Wren, Christopher, --  Sir, 1632-1723.</term>
+               <term>Mines and mineral resources --  Wales --  Bwlchyr Eskir hyr.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46546:1" rendition="simple:additions"/>
+            <head>An Anſwer to a Paper Publiſhed by one BATEMAN AGAINST THE
+MINE-ADVENTURE.</head>
+            <p>
+               <hi>By a New Adventurer.</hi>
+            </p>
+            <p>THE beſt way to diſcover the Naked Truth, is to lay aſide
+all Reflections, and come to the matter of Fact; 'tis an eaſy matter to be
+ſa<g ref="char:EOLhyphen"/>tyrical, and to abuſe the beſt of Men, but 'tis not ſo eaſy to
+carry on ſuch a Deſign to the end of the Chap<g ref="char:EOLhyphen"/>ter; ſome unlucky accident
+or other generally falls out to the Eternal Shame and Diſgrace of the Author,
+as it happens in this very caſe.</p>
+            <p>For I muſt confeſs, That being at firſt ſurprized to read
+ſuch a Paper, ſo highly Reflecting on a Gentleman, whoſe Character was
+one great Motive which indu<g ref="char:EOLhyphen"/>ced me to become a Subſcriber, I made a very
+ſtrict and full Enquiry into the matter of Fact, of which he ſtands
+accuſed in this Paper (for as to the reſt of the Partners, I am ſatisfied
+they had no Concern in this Undertaking, but either to take Money or Tickets
+for their Shares, at the Price propoſed) and being fully informed how matters
+ſtood, by undeniable Proofs, and finding other Perſons (who were more able)
+too buſy at this time to engage in a Paper War, I have preſumed to ſtate
+the matter of Fact to the World as I found it; and am perſwaded the ſame
+will give en<g ref="char:EOLhyphen"/>tire Satisfaction to all unbyaſſed Perſons, that will take
+the pains to read it.</p>
+            <p>And this I have done for two Reaſons, firſt to
+diſ<g ref="char:EOLhyphen"/>countenance Malice, and diſtinguiſh a Man, whoſe ſubtil Parts
+might otherwiſe make him capable of do<g ref="char:EOLhyphen"/>ing more miſchief in the World; and
+Secondly, to Vindicate the Honour of a Gentleman, who has taken ſo much pains
+for the Publick Good of all the Part<g ref="char:EOLhyphen"/>ners, and indeed of the whole Kingdom.</p>
+            <p>And becauſe the ſcope of this Paper is to ſhew that this
+Mine is worth nothing, and that Mr. <hi>Bateman</hi> was always of the ſame
+Opinion in that matter: I ſhall begin with a Letter under the Author
+<hi>Bateman</hi>'s own hand Writing, remaining (amongſt the other Writings)
+in the Cuſtody of <hi>Anthony Forty,</hi> and <hi>Francis Pigot,</hi> Gent.
+Secretary and Accountant to the Company; the Letter is ſet forth
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the very words thereof,
+Pa<g ref="char:EOLhyphen"/>ragraph by Paragrap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and is
+directed thus:</p>
+            <floatingText type="letter">
+               <body>
+                  <head>
+                     <note place="margin">Note, Sir <hi>Chriſtopher Wren,</hi> was
+then Chair<g ref="char:EOLhyphen"/>man of the Committee, and that <hi>Bwlchyr Eſ<g ref="char:EOLhyphen"/>kir hyr,</hi> is the
+place where the Mines do lye.</note> 
+                     <hi>To Sir</hi> Chriſtopher Wren
+<hi>in</hi> Scotland-Yard, White-hall.</head>
+                  <opener>
+                     <dateline>
+                        <hi>Bwlchyr-Eskir hyr</hi> 
+                        <date>
+                           <hi>May</hi> 9. 1694.</date>
+                     </dateline> 
+                     <salute>Honour'd Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>PErmit me your hand to preſent the Committee the
+incloſed Papers, which contain what I have obſer<g ref="char:EOLhyphen"/>ved, and can remind to be
+uſeful in the Affair wherein you recommend my Service.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerva.</hi> The ſaid incloſed Papers under his own
+hand writing, are to be ſeen in the cuſtody of the ſaid Secretary and
+Accomptant; and by this Paragraph I ſhould think, that what he obſerves
+therein, was de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igned to relate to
+that Mine he was ſent down to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iew, and not to any other in the North of <hi>England,</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he would inſinuate in his Paper;
+and alſo, that his <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rvice was
+recommended in this affair to the Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittee by Sir <hi>Chriſtopher Wren</hi> (which he now de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es) tho' he told the Workmen in the
+Country, he <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as to come down Four
+times a Year, and ſeveral <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſons
+recommended him to the Committee for that purpoſe; and as they then ſaid,
+at his deſire and re<g ref="char:EOLhyphen"/>queſt.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter. <hi>And I hope too you'll find a Return to what I was
+charged with particularly, except Treating with Mr.</hi> Covey; <hi>and I leave
+it to Mr.</hi> London, <hi>the diſcuſ<g ref="char:EOLhyphen"/>ſing and excuſing that
+Clauſe.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> There is nothing material in this Paragraph,
+then that he was very cautious of obſerving the Order of the Committee, which
+he was charged with; but as he would have it; it was only as a Friend, and not
+in hopes of an Employment under them.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter. <hi>I have imparted to Mr.</hi> Waller <hi>the Me<g ref="char:EOLhyphen"/>thods
+I propoſe for the Management and Accounts, and he's pleaſed to comply with
+them.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> I admire ſo Judicious and ingenious a
+Perſon as Mr. <hi>Bateman,</hi> ſhould be at the trouble to recommend a
+Method of Management and Accounts for carrying on a Mine, when in his Paper he
+tells us, that 'tis plain, if the Royalty were beſtowed on any Body Gratis,
+'twere not worth the Working, and that he was always of the ſame Opinion; and
+if you would but take the trouble to read his Method at large under his own
+Hand, you might better Judge, whether it was fair and honeſt in Mr.
+<hi>Bateman,</hi> to recommend ſuch a Chargeable Management to the Partners,
+that paid him 40 <hi>l.</hi> for his Journey, and put an intire truſt in him,
+if he then thought the Mines were worth no<g ref="char:EOLhyphen"/>thing. But mark what follows!</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter. <hi>I'me in hopes all the Gentlemen in Partner<g ref="char:EOLhyphen"/>ſhip
+will do ſo, to raiſe ſucceſſive Funds, as requiſite for making
+conſtant pays, without which Hands will not be procured, and without Hands
+nothing can be brought in; —</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> Hey dey; <hi>What's this!</hi> Certainly this
+cannot be Mr. <hi>Bateman</hi>'s Letter, it muſt be ſome cur<g ref="char:EOLhyphen"/>ſed Cheat
+that has Counterfeited his Hand; it is im<g ref="char:EOLhyphen"/>poſſible a Man of Mr.
+<hi>Bateman's</hi> Character can ſo va<g ref="char:EOLhyphen"/>ry from himſelf! What, can Mr.
+<hi>Bateman</hi> hope the Partners will raiſe ſucceſſive Funds to be
+thrown away upon ſuch an unprofitable Mine as this? is it poſſible? O no!
+this is a great miſtake; he does not mean that the Partners ſhould Raiſe
+ſucceſſive Funds to Carry on this Mine, but ſome other Mine in the
+<hi>North</hi> of <hi>England,</hi> that they had nothing to do with; as you
+may Obſerve from his Conſtruction of the next Sentence.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter. <hi>ſince the more is laid out in an undertaking that
+bears a proſpect of ſucceſs the more conſide<g ref="char:EOLhyphen"/>rable will the return
+be.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> This (ſayes he) is true, I did ſay ſo,
+and I ſay ſo ſtill, but <hi>without Application;</hi> he Dates his Letter
+indeed from this very Mine called <hi>Bwlchyr-Eskir-hyr,</hi> and went down on
+purpoſe to View it, and give his Opinion of it, but yet did not Write about
+this Mine, but about ſome other in the <hi>North</hi> of <hi>England;</hi> O
+horrid impudence! I proteſt I have much ado to forbear calling him a
+prevaricating Kn—ve, but he ſays he has given a Reaſon for Working
+the Mine before; and what was that, why truly becauſe they might probably
+come ſhort of Intereſt Mony and ſink the Principal: Excellent advice, an
+honeſt Counceller; a Man fit to be Im<g ref="char:EOLhyphen"/>ployed and truſted; — but how
+does this agree with what follows.</p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="2" facs="tcp:46546:2"/>
+                  <p>Letter. <hi>This Concern is Weighty.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> How ſo? What do Men uſually mean by ſuch
+an Expreſſion? do they mean by it that the concern they ſpeak of is worth
+nothing? No cer<g ref="char:EOLhyphen"/>tainly, all plain Dealers intend by ſuch an Expreſſi<g ref="char:EOLhyphen"/>on
+that the Concern is of great value, weight and moment: But however you muſt
+take Mr. <hi>Bateman</hi> in what Senſe he pleaſes, and he only ſaid it
+was Weighty, becauſe it was Valued then at Seventy Thouſand <hi>l. per
+Annum,</hi> and afterwards at above One Hundred and Twenty Thouſand <hi>per
+Annum.</hi> which he ſays was too Weighty for the Mine to bear: This is
+ſuch ſtuff that I proteſt I am a weary of this Subject; but however I
+muſt have patience to go through the Letter, and the next Clauſe is.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter. <hi>But it better Comports with great Minds and
+Purſes.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> What to do? to throw away their Mo<g ref="char:EOLhyphen"/>ny? ſo it
+ſeems, and for this end ſays he in his Pa<g ref="char:EOLhyphen"/>per. I annext the aid of Noble
+Minds and Purſes, becauſe they are ſure remedies for diſappointments, a
+rare Spark: I hope his Patron (if he hath any) will take Notice of this prudent
+and Conſcientious. Ad<g ref="char:EOLhyphen"/>vice, which may be very ſerviceable to him; —
+but to proceed, the next Sentence is, that.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter, <hi>It requires great Skill to carry it on to the beſt
+and moſt Advantage.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> I thought there had not been ſo much Skill
+required to throw a Man's Money away, or at leaſt, that no Skill could make a
+Mine advantagious; that was worth nothing, but this is a ſingular Virtue and
+Excellency in Mr. <hi>Bateman,</hi> That he can make a Mine valuable or not
+valuable when he pleaſes, had he been Superviſor, no doubt it would have
+been wrought to the moſt Advantage, but without that, it was worth nothing at
+all, and yet he tells us,</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter, <hi>And that ſuits well with Mr.</hi> Waller<hi>'s
+Ca<g ref="char:EOLhyphen"/>pacity.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> How has Mr. <hi>Waller</hi> any Capacity to
+ma<g ref="char:EOLhyphen"/>nage a Mine? Yes at that time he had, becauſe Mr. <hi>Bateman</hi> only
+deſired to be a riding Surveyor, and to go down four times a Year to
+inſpect the Ma<g ref="char:EOLhyphen"/>nagement, and to have Forty Pound a Journey; but afterwards
+that Motion being laid aſide, upon Mr. <hi>Waller</hi>'s Information, That he
+had no manner of Skill in mineral Works; now Mr. <hi>Waller</hi> has nei<g ref="char:EOLhyphen"/>ther
+Honeſty nor Skill, but is the greateſt Cheat in the Kingdom, tho' he has
+four Affidavits on his ſide, and none yet againſt him.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter, <hi>I heartily wiſh Proſperity to it.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> I thank you heartily for your good Wiſh<g ref="char:EOLhyphen"/>es,
+as long as you were in hopes to get any thing by it; and I am ſorry you have
+given me this Occaſion of making Mr. <hi>Bateman</hi> at Enmity with
+himſelf, but I know none ſo fit to deal with him as himſelf; for he knows
+the Secrets of his Heart, which I ſhall ne<g ref="char:EOLhyphen"/>ver be able to fathom any other
+Way.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Letter. <hi>As,</hi>
+                  </p>
+                  <closer>
+                     <salute>SIR,</salute> 
+                     <signed> 
+                        <hi>Your moſt Obedient, Humble
+Servant,</hi> Tho. Bateman.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Obſerv.</hi> This Mr. <hi>Thomas Bateman</hi> was very
+obe<g ref="char:EOLhyphen"/>dient and very humble to Sir <hi>Chriſtopher Wren,</hi> as long as he
+wanted a Place, but now he values nei<g ref="char:EOLhyphen"/>ther him nor any Body elſe; for Sir
+<hi>Chriſtopher Wren,</hi> who is a Perſon of great Reputation and Worth,
+declares one thing, and he another; I appeal to Sir <hi>Chriſtopher
+Wren,</hi> and all the General Meeting, for what Sir <hi>Chriſtopher</hi>
+declared publickly in the Preſence of a great number of the Partners at
+<hi>Gar<g ref="char:EOLhyphen"/>raway</hi>'s-Coffee-houſe, and to the minutes taken by the Secretary,
+and afterwards publickly Read and ap<g ref="char:EOLhyphen"/>proved which were as followeth.</p>
+            <p>Whereas there has been a Scandalous Report made of the Mines late
+of Sir <hi>Carbery Pryſe</hi> Barronet by one Mr. <hi>Thomas Bateman</hi>
+leſſening the true Value and Goodneſs thereof, whereupon ſeveral
+Affidavits were Read atteſting the Largeneſs of the Veins and Good<g ref="char:EOLhyphen"/>neſs
+of the Oar thereof, and Sir <hi>Chriſtopher Wren</hi> being preſent, did
+declare that Mr. <hi>Bateman</hi> denyed to him that he had ever made any
+ſuch Report; and that he ſaid he was wronged in the ſaid Report, and
+deſired to be Excuſed, and that the ſaid Mr. <hi>Bateman</hi> would wait
+upon Sir <hi>Humphry Mack<g ref="char:EOLhyphen"/>worth</hi> at his Chambers to declare the ſame.</p>
+            <p>And I appeal to Mr. <hi>Bateman</hi>'s Printed Paper for what he
+ſayes, whoſe Words are theſe, <hi>I think it be<g ref="char:EOLhyphen"/>comes me to clear firſt
+the laſt Article that Names me, wherein they ſay I have denyed by Sir</hi>
+Chriſtopher Wren's <hi>Mouth that ever I ſpake againſt the Mines; I never
+yet denyed what I at any time ſaid of their Mine, nor did I ever ſpeak by
+proxy of it.</hi>
+            </p>
+            <p>This Declaration of Mr. <hi>B.</hi> gives his Old Maſter Sir
+<hi>Chriſtopher Wren</hi> a very fair Broad-ſide.</p>
+            <p>Now which is the honeſter Gentleman the Maſter or the Man I
+leave to the World to Judge; for my part I have a great Honour for Sir
+<hi>Chriſtopher Wren,</hi> and after ſo many Convictions of the other,
+can't think it difficult to Cenſure him in this alſo.</p>
+            <p>And Whereas he ſays his Computation of One Thouſand Eight
+Hundred Seventy Five Tuns of Oar yeilding One Thouſand Two Hundred and Fifty
+Tuns of <hi>Lead,</hi> or Fifteen Thouſand Tuns of Oar yeilding 10000 Tuns of
+<hi>Lead</hi> was not ſaid by him of the Partners Oar, but of the
+<hi>Northern</hi> Oar, this is Juſt like all the reſt, for this Paper is
+Dated from <hi>Bwlchyr-Eskir-Hir</hi> where the Mines Lye and incloſed in the
+ſaid Letter, and is in theſe words following.</p>
+            <p>
+               <hi>Bwlchyr-Eskir-Hir;</hi> 9th. May, 1694.</p>
+            <p>No Water Courſes that can be depended on for conſtant
+ſupply, are nearer the Mines than <hi>Tallabont,</hi> which is Three Miles
+from them, and One Mile from a ſmall River that Runs winding into the River
+<hi>Do<g ref="char:EOLhyphen"/>vey,</hi> It has the Tides, but at ſuch diſadvantage that (I'm told)
+they diſcontinue from <hi>May</hi> to <hi>Auguſt;</hi> But I think this
+inconvenience is removeable, and conſtant Tides may be procured by a
+ſloping Cut over the Common into <hi>Dovey,</hi> Mr. <hi>London</hi> has
+taken and will produce a Draught and Eſtimate of in Sir <hi>Carbery
+Pryſe</hi> is Lord.</p>
+            <p>At <hi>Tallabont</hi> Mr. <hi>Waller</hi> has deſigned a
+Smelting-Mill, cut part of its Raſe, and is under ſome Con<g ref="char:EOLhyphen"/>tract with Mr.
+<hi>Covey</hi> for building it.</p>
+            <p>Very near this place, upon the ſame River, ſtands a Mill that
+pledges forty Shillings <hi>per Annum</hi> to the Lady <hi>Pryſe,</hi> the
+Scituation is very convenient for a Smelting-Mill; and no doubt, but Sir
+<hi>Carbery</hi> may ſecure it, by taking upon himſelf for account of
+Com<g ref="char:EOLhyphen"/>pany what is charged upon it.</p>
+            <p>This Advantage attends theſe Mills, that no Huts need be built
+for the Smelters, the Town of <hi>Talla<g ref="char:EOLhyphen"/>bont</hi> (whereof Sir <hi>Carbery</hi>
+is Lord) being capable to receive them.</p>
+            <p>The Silver Mills are about four Miles from the Groves, and a Mile
+from <hi>Dovey,</hi> that's conſtantly navigable; they are very conveniently
+ſcituated, yet I think, That taking down and rebuilding them will be more
+advantagious in the Conſequence; for I do not approve their preſent
+Erection for Lead; beſides, there are now only five Hearths, but two new
+Mills may be built with four Hearths a-piece, the Mate<g ref="char:EOLhyphen"/>rials and Appurtenances
+are good ſo far as we could view them, but the Doors being lock'd, we could
+take no particular Eſtimate, the Houſes about, and adjoining 'em, may
+beſt be purchaſed with 'em, as capable to receive the Smelters.</p>
+            <p>No more Places for Mills could now be found, or heard of.</p>
+            <p>The Country not furniſhing with Coal, the Oar is to be melted
+with Chop-wood.</p>
+            <p>☞ The moſt that a Mill of four Hearths can me<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a Year, at double ſhift, is One
+Thouſand Two Hundred and Fifty Tuns, which may proceed from One Thouſand
+Eight Hundred and Seventy Five Tuns of Oar, ſo Fifteen Thouſand Tuns of
+Oar, or Ten Thouſand Tuns of Lead will require Thirty Two Hearths, or Eight
+Mills, and Sixty Four Smelters, with as many Sarvers. Propoſed.</p>
+            <p n="1">1. That there be as many Bing-ſteads, or Repon<g ref="char:EOLhyphen"/>tories, for
+Ore, as there are Smelters, that by it may be diſcerned who works the beſt,
+and makes the moſt; this Method induces the Smelters too, to take more Care
+and Pains, to ſtrive to out-do one ano<g ref="char:EOLhyphen"/>ther, to be watchful over each other,
+that one go not Oar from another, and ſo ſee that the Oar be 
+<pb n="3" facs="tcp:46546:2"/>well dreſſed; for as all Deficiencies (they know) in the
+Proceed, will be charged upon em; it behoves them to examine every thing to
+hand.</p>
+            <p n="2">2. That a Steward be allotted to every Lead-mill, he'll have
+full Employment, for this Reaſon it may not be convenient to chuſe any
+place for melting that has not Room and Convenience for two Mills; becauſe
+one Steward may manage two, when they ſtand very near together, but he can't
+when they are any conſiderable ſpace diſtant.</p>
+            <p n="3">3. That each Pig (or piece of Lead) weighs one hundred,
+where Carts or Wayns can paſs with it from the Mills, for this Reaſon,
+Smelting, Carriage, Por<g ref="char:EOLhyphen"/>terage, Fraight, <hi>&amp;c.</hi> are rated at ſo
+much <hi>per</hi> Pig, let the Weight be what it will (Sows are double)
+Merchants too commonly preferr Lead of this Weight <hi>per</hi> Pig, as
+ſaving ⅙ in Fraight of what they pay for Lead of the common Weight
+<hi>per</hi> Pig.</p>
+            <p>Now I deſire the Reader to conſider, whether it might not
+rationally be ſuppoſed, That he intended the ſaid Calculation to be of
+the Produce of theſe Mines, which were the ſubject of his Letter, and his
+whole Buſineſs into that Country, rather than of any other Mine; you may
+perceive by his printed Paper (if he writ it without help). That he does not
+want a Satyrical Wit and Nice Obſervation; and there<g ref="char:EOLhyphen"/>fore I deſire to know
+why he ſhould tell the Com<g ref="char:EOLhyphen"/>mittee, That Fifteen Thouſand Tuns of Oar
+requi<g ref="char:EOLhyphen"/>red ſo many Mills, Hearths, Smelters and Servers, if he had not the
+leaſt Thought, That ſo much Oar could be raiſed out of their Mines? To
+what pur<g ref="char:EOLhyphen"/>poſe ſhould they be at all that Charge for-nothing? Or to what end
+did he mention ſuch things? If he had thought otherwiſe, certainly he would
+have told them, That he did conceive, that they could not raiſe but ſuch or
+ſuch Quantities of Oar, and that therefore two or three Mills would be
+ſufficient, but whilſt he confeſſes, the Committee had thoughts of
+building but two Lead-mills; he on the contrary writes to them of building
+Eight, and at the latter end of his printed Paper, he forgets that he had writ
+to the Effect above mentioned, but ſays, he on<g ref="char:EOLhyphen"/>ly made a Remark as he was
+going with Mr. <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to the Mines, of the Inconſiſtancy of the
+firſt Pro<g ref="char:EOLhyphen"/>poſals; which was to him an Argument, that their Oar was not to
+be tried by Fire.</p>
+            <p>I wiſh this Gentleman may not undergo a fiery Tryal one time or
+other, for ſuch Confidence and Prevarication, I have hardly ever met with
+before in all my Life-time; but for a farther and final Anſwer to this piece
+of Sophiſtry, I was lately preſented with another Paper under Mr.
+<hi>Bateman</hi>'s own Hand-<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iting,
+and ſigned by him, where he has theſe very Words, <hi>viz.</hi> The Oar is
+very good, and no doubt, wil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yield
+well: Now I know this Gentleman will anſwer me preſently, and ſay this is
+true, I ſay ſo ſtill, but <hi>without Application;</hi> for I did mean
+the Oar in the North; but hold Sir, I find you muſt be chained to the Block,
+or elſe there is no laying hold on you; and here I have you faſt again; for
+your Paper is dated from theſe Mines at <hi>Bwlchyr Eskirhyr,</hi> and
+Intituled ſome Remarks upon the Mines here; and the firſt Article is, That
+the Oar is very good, <hi>&amp;c.</hi> Now let us ſee how you'll get out of
+this Nooze, I perceive you have more Tricks than a Dancing-Bear, but yet you
+may be caught ſome times aswell as another.</p>
+            <p>The next thing that ſeems material to anſwer, is his
+Calculation of the Value of the Oar in 1696. tho' that is really done already
+in the Anſwer to the Objections, where the Author fully tells him, That in
+1696. there was a Miſmanagement in the ſmelting of the Oar, that the Oar
+was not half ſmelted, and that the ſlag (or droſs) of that ſmelting
+when beat and waſhed, doth look as bright and rich as the Oar it ſelf, and
+muſt be ſmelted over again to have the full produce thereof; this
+miſmanagement Mr. <hi>Waller</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter complained of by Letter to the Committee,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therefore it ought not to be
+objected againſt him, and no fair Objector would give a particular acci<g ref="char:EOLhyphen"/>dent
+for a ſtanding Rule, or inſiſt on the Unskilful<g ref="char:EOLhyphen"/>neſs of one ſingle
+Artiſt as an Argument againſt the Richneſs of the Oar, without taking
+notice of this Anſwer in the ſame Paper he is writing againſt; for tho'
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſtiles his Paper an Anſwer to
+the Poſtſcript, yet he really objects againſt all that has been writ of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of theſe Mines.</p>
+            <p>However to give a more particular Anſwer to this Objection; I
+will State it Firſt in his own words, as followeth <hi>(Viz.)</hi>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Anno 1696.</hi> The value of the Lead-Ore <hi>Bwlchyr-Eskir
+Hir</hi> in <hi>Cardi<g ref="char:EOLhyphen"/>ganſhire,</hi> computed from the ſmelted produce
+thereof.</head>
+                  <row>
+                     <cell>nbsp</cell>
+                     <cell role="label">Tuns.</cell>
+                     <cell role="label">C wt.</cell>
+                     <cell role="label">qu.</cell>
+                     <cell role="label">l.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>nbsp</cell>
+                     <cell>41</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0 <hi>of Ore</hi>
+                     </cell>
+                     <cell rows="2">As by the Mill-Ste<g ref="char:EOLhyphen"/>wards Letters to Mr.
+<hi>L-n,</hi> one of the partn.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Yeilded</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>19</cell>
+                     <cell>1</cell>
+                     <cell>11 <hi>of Lead</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Which is</hi> 8 ¼ C. <hi>of Lead</hi> per <hi>Tur.</hi>
+(<hi>or</hi> 20 C.) <hi>of Ore.</hi>
+            </p>
+            <p>
+               <hi>Suppoſe Lead at</hi> Briſtol <hi>(the neareſt Port) to
+be</hi> 9 l. per <hi>Tun, which is there a good rate.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">nbsp</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carriage from</hi> Tallabont <hi>Mill to</hi> Tredal,
+<hi>is</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6 per <hi>Tun</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thence to</hi> Aberdovey.</cell>
+                     <cell>1</cell>
+                     <cell>6 per <hi>Tun</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Agency at</hi> Aberdovey.</cell>
+                     <cell>0</cell>
+                     <cell>3 per <hi>Tun</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Freight to</hi> Briſtol <hi>(the Seas being
+open)</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>0 per <hi>Tun</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wharfage, porterage, cellerage and
+factorage.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>9 per <hi>Tun</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total Charge from the Mill to the Sale is</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Which reduces the neat worth of the Lead at the Mill
+to</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The neat worth at the Mill then of</hi> 8 ¼ C.
+<hi>of Lead (or of ſo much as comes from a Tun of Ore) is</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>11 ¼</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Suppoſe this Tun of Ore laid at the Mill, the convert<g ref="char:EOLhyphen"/>ing it
+into Lead requires this Charge,</hi> viz.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="3">For Smel<g ref="char:EOLhyphen"/>ting a Tun of Lead.</cell>
+                     <cell>
+                        <hi>Chopwood, Lime, and Shells come to</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Smelters wages by Agreement,</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mill-erection and furniture with repairs and Stewards
+Sal. may be reckon'd at</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">2</cell>
+                     <cell role="total">4</cell>
+                     <cell role="total">6</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Pro ratâ <hi>the Smelting of</hi> 8 ¼ C.
+<hi>will Coſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>4 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>This Remainder is the neat worth of a Tun of Ore at the
+Mill,</hi> viz.</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>From which deducting the Carriage from the Mines to the
+Mill,</hi> viz.</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And there is left for the neat worth of the Ore to the
+Mines.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>7</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Which is about</hi> 15 s. per <hi>Bing of</hi> 8 C.</p>
+            <p>No doubt but Mr. <hi>Bateman</hi> thinks he has now knock'd the
+Nail on the head, for if he can make the World believe that the Oar did yeiid
+no more than 1 <hi>l.</hi> 17 <hi>s.</hi> 7 <hi>d. per</hi> Tun clear Profit in
+the Year 1696. He ſuppoſes his Deſign is Accompliſhed. But alas he is
+mighti<g ref="char:EOLhyphen"/>ly miſtaken, for this Objection may be eaſily Anſwered ſeveral
+ways.</p>
+            <p>And firſt we'll take the weakeſt Anſwer, and ſuppoſe the
+Worſt, that this Caculation were as True as it is really Falſe, yet
+Conſider<g ref="char:EOLhyphen"/>ing the quantities which may be Raiſed from theſe Mines; and
+which Mr. <hi>Waller</hi> with good Reaſon Conceives may be Fifteen
+Thouſand Tun from the great Vein, and Five Thouſand Tun a peice from the 5
+Leſſer Veins, in all Forty Thouſand Tuns, this will amount to Seven and
+Fifty Thouſand Pounds a Year Clear Profit above all Charges, according to Mr.
+<hi>Bateman</hi>'s Computation; But ſuppoſe we Raiſe but one Half of that
+Oar, it will be ſufficient to Anſwer vaſt Profit to all the
+<hi>Adventurers,</hi> and One Quarter amounts to more than Sir <hi>H. M.</hi>
+has Valued the whole Mine; and ſince we have Four Affidavits on one ſide to
+prove the Largneſs and Wideneſs of the great Vein in Oar, and Mr.
+<hi>Bateman</hi> dares not venture to make one a<g ref="char:EOLhyphen"/>gainſt them. I hope our
+quantity will not be Queſtioned by any in<g ref="char:EOLhyphen"/>different Reader.</p>
+            <p>The ſecond Anſw. ſhall be from matter of Fact known to all
+the Partners, and appearing upon their Books, and that is, that the hard Oar
+was ſold for 4 <hi>l.</hi> 5 <hi>s.</hi> a Tun at <hi>Dovey;</hi> Now if the
+Oar be worth four pound five ſhillings <hi>per</hi> Tun, without farther
+Charge, how comes the ſame manufactured to yield but one pound ſeventeen
+ſhillings and ſeven pence, O, but Mr. <hi>Bateman</hi> will tell you, that
+the perſon that bought it had ſo hard a bargain, that he loſt by it, and
+would never deal again with them, no, that is alſo denied, for the ſame
+Per<g ref="char:EOLhyphen"/>ſon who did ſmelt that Oar and had full Experience of it, hath lately
+bought of the ſame Oar from Mr. <hi>Pryſe</hi> and from the Lady
+<hi>Pryſe,</hi> and would buy all the Partners Oar on the Bank, if he might
+have it; this Mr. <hi>Bateman,</hi> perhaps, will have the Confidence to deny,
+and challenge us to name the Perſon. tho' he has made frequent References
+himſelf without naming any; and expects to be believed by his <hi>ipſe
+dixit,</hi> yet we muſt not preſume to take that Liberty, well, in hopes he
+will follow a good Example, we will name the Perſon, who is Mr. <hi>Dan.
+Peck,</hi> a Man of great Skill in the ſmelting and ex<g ref="char:EOLhyphen"/>tracting of hard Oars
+in <hi>Wales,</hi> and has a noted ſmelting-mill in
+<hi>Flintſhire.</hi>
+            </p>
+            <p n="3">3dly. But what will Mr. <hi>Bateman</hi> ſay, if this very
+Gentleman hath offered three pound <hi>per</hi> Tun for the very ſlag or
+Droſs of that Lead ſmelted in 1696, will he then believe that the Oar will
+yield a better produce if ſmelted with Art and Skill, certainly if the Lead
+be left in the ſlag it is the ſame thing as to the Richneſs of the Oar,
+as if it had been ſmelted out, for if an unskilful Artiſt for want of a
+proper Flux, and good firing ſmelts but half the Lead out of the Oar, is that
+ſingle inſtance an Argument that the Oar will yield no more afterwards? But
+becauſe we have a Critical-Gentleman to deal with, very full of Evaſions, I
+have obtain'd a Perſon of great Credit and Reputation, to condeſcend to
+tell us the Truth by way of Affidavit, for the entire Confutation of the
+Objectors, and Satisfaction of all the new Adventurers in this particular,
+—</p>
+            <p>The Affidavit of <hi>Edward Pryſe,</hi> 
+               <abbr>Eſq</abbr>.
+<hi>Edward Pryſe</hi> of <hi>Gogarthen,</hi> in the County of
+<hi>Cardigan,</hi> 
+               <abbr>Eſq</abbr> maketh Oath, That ſeveral Tuns of the
+hard Oar of <hi>Bwlchyr Eſgair-hyr</hi> in the ſaid County of
+<hi>Cardigan</hi> was ſold to <hi>Paul Docminique</hi> of <hi>London,</hi>
+Merchant and Commiſſary <hi>Shales,</hi> at the rate of four pound five
+ſhilling <hi>per</hi> Tun; and that <hi>Daniel Peck</hi> of <hi>Flint,</hi>
+Gent. owned, that he bought part of that Oar and ſmelted it, and that it gave
+him ſuch encouragement, that within the ſpace of three Months laſt
+paſt, the ſaid Mr. <hi>Peck</hi> came over to this Deponents Houſe at
+<hi>Gogarthen</hi> aforeſaid in the County of <hi>Cardigan,</hi> and bought
+all the remaining parcel of the ſaid hard Oar, which this Deponent and the
+Lady <hi>Pryſe</hi> had power to diſpoſe of, and offered to buy the Oar
+on the Bank belonging to the Partners and the Lead, and <pb facs="tcp:46546:3"/>mongſt
+other things the ſaid <hi>Daniel Peck</hi> particularly offered to this
+Deponent upon the place at <hi>Tallybont.</hi> to give three pound <hi>per</hi>
+Tun for the ſlag (or droſs) of that Lead which now lyes at
+<hi>Tallybont,</hi> and was the Lead which was made there in the Year 1696,
+from the hard O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of <hi>Bwlchyr
+Eskir-hyr,</hi> but this Deponent did not accept of the ſame, having no Power
+from the Partners to diſpoſe thereof.</p>
+            <p>And now I deſire to know what can be ſaid againſt the value
+of this hard Oar? If this matter of Fact will not convince, if Mr.
+<hi>Bateman</hi> is a man of that Credit in the World, that his bare
+ſuggeſtions will paſs againſt all ſorts of Evidence, it is in vain to
+ſpend more Ink and Paper.</p>
+            <p>But however, for farther Demonſtration of the Truth in this
+par<g ref="char:EOLhyphen"/>ticular, I will anſwer every <hi>Item</hi> of his Calculation.</p>
+            <p>And as to the Produce of the Lead in 1696. that is confeſſed,
+as aforeſaid, and the reaſon is given, becauſe the Smelter was unskilful,
+uſed no other Flux but the Earth of the Fallow Ground, and did not give it
+half Firing; by all which a great part of the Lead was left in the Slag, for
+which Slag we are now offered 3 <hi>l. per</hi> Tun.</p>
+            <p>As to the Voyage to <hi>Briſtol,</hi> and all the Charges
+thereof, we altoge<g ref="char:EOLhyphen"/>ther reject that Notion, as a meer contrivance to enhance
+the Recko<g ref="char:EOLhyphen"/>ning; for the Lead may be ſold at 9 <hi>l. per</hi> Tun at
+<hi>Dovey,</hi> or at leaſt ſent up to <hi>London</hi> for leſs then 20
+<hi>s.</hi> a Tun, and ſold for 10 <hi>l. per</hi> Tun, and perhaps by
+carrying Corn from <hi>Pembrook-ſhire,</hi> or fiſh from
+<hi>Aberyſtwyth,</hi> the Freight may be more then paid for that way.</p>
+            <p>And then as for the Charges of Smelting, whatſoever it coſt
+that unskilful Pretender in 1696. we know no reaſon why it ſhould coſt
+more with us, then in the North, eſpecially ſince we are now to have Coal
+cheap by Sea, and by carrying Coal to Oar, and Oar to Coal, ſhall ſave half
+Freight, and a great part of the Duty on Coal; but at worſt we are offered by
+the Great to have it done for 20 <hi>s.</hi> a Tun, with Pit Coal in a Cupulo;
+ſo I hope we may modeſtly deduct out of this Valuation 20 <hi>s.</hi> and 9
+<hi>d. per</hi> Tun for the <hi>Briſtol</hi> Voyage, and 1 <hi>l.</hi> 4
+<hi>s.</hi> 6 <hi>d.</hi> in Smelting Charges, beſides 4 <hi>s.</hi> a Tun
+for Carriage from the Mines to the Mill, which is four Mile, and we never paid
+but 12 <hi>d.</hi> a Mile; tho' he hath ſet it at juſt double the rate, by
+which you may gueſs at all the reſt: And if you'll pleaſe to compute the
+Profit fairly, at the true value, and add 3 <hi>l. per</hi> Tun for the Slag, I
+believe you'll find Mr. <hi>Waller</hi> very modeſt in his Calculation; but
+you may ſee alſo a fair Computation of the Profit of this hard Oar, in the
+Anſwer to the Objections.</p>
+            <p>And here I cannot forbear to take notice of the extraordinary
+Partiality of this Worthy Objector, who notwithſtanding the Papers he
+Anſwers, tells him, that there is ſeveral ſorts of Oars in theſe Mines,
+<hi>viz.</hi> ſoft Oar, Potters Oar, Starry Oar, Steely Oar, <hi>&amp;c.</hi>
+and tho' he knows, and was alſo told, it was not the ſoft or Potters Oar,
+but the hard or ſteely Oar that was ſmelted in 1696. yet he takes not the
+leaſt notice of this, but ſlides it over ſmoothly, as if all the Oar was
+under the ſame difficulty of Smelting; whereas the ſoft or Potters Oar will
+Smelt in a Fire Shovel in a Kitchin Fire, without any Flux; but yielding more
+Profit in Oar, for Glaſing Earthen Ware in <hi>Holland,</hi> where it ſells
+now for about 12 <hi>l. per</hi> Tun; the Partners never Smelted any of that
+down into Lead, except a ſmall quantity for Trial. And he is told in the
+ſaid Paper, that if all the hard Oar were left unwrought, the ſoft or
+Potters Oar, was ſufficient alone to bring in great advantage to all the
+Adventurers, and to all this he is ſilent; but I fancy no Perſon that has
+read his Paper will believe that he was ſo, for want of Malice, but becauſe
+he cannot deny the Fact.</p>
+            <p>And thus having given an Anſwer to the material Part of Mr.
+<hi>Bateman</hi>'s Paper, if any part thereof may be ſaid to be ſo; I don't
+know whether I ought to condeſcend ſo low as to take notice of his
+Satyrical Flights and ſly inſinuations; I obſerve indeed; That he is
+conſcious of his Guilt, by running for ſhelter under the Protection of a
+noble Lord, and of the North-Country Gentlemen, both which Stories, I am
+confident, are meer Fictions, in hopes to create ſome further Differences;
+for moſt of the Gentlemen he mentions, did aſſure me, that they never
+heard that any ſuch noble Lord ever ſpoak againſt the Mines, nor they
+never ſpoak diſreſpectfully of any ſuch Lord, nor don't know who he
+means; and Mr. <hi>Bateman</hi> would do well to name the Perſon, Time, and
+Place, and ſaddle the right Horſe, or elſe 'tis hoped, this noble Lord
+will be pleaſed to entertain a more favourable Opinion of the accuſed, than
+of the accuſer.</p>
+            <p>And as to the North-Country Gentlemen, the old Partners and
+Subſcribers, have a great Honour for them, and never ſpoak nor thought any
+Evil of them; but if a few inferiour Perſons being Te<g ref="char:EOLhyphen"/>nants of Mines in other
+places have entertained a wrong Notion of this Undertaking, and thought it
+their Intereſt to oppoſe it, I hope any accidental Diſcourſe relating
+to them ſhall not be conſtrued to any other purpoſe.</p>
+            <p>As to Sir <hi>H. M.</hi> threatning Mr. <hi>Bateman,</hi> I can
+ſpeak this to my own Knowledge, That when a worthy Member of Parliament
+pro<g ref="char:EOLhyphen"/>poſed at a General Meeting, That the ſaid <hi>Bateman</hi> ſhould be
+pro<g ref="char:EOLhyphen"/>ſecuted at Law, at the common Charge for his ſcandalous Words; Sir
+<hi>H. M.</hi> was the Man that diverted the queſtion, and deſired that it
+might be deferred till another Meeting. Sir <hi>H.</hi> does confeſs, that in
+a way of Diſcourſe he has given his Opinion, and ſo has ſeveral other
+Gentlemen at the Bar concern'd in this Undertaking, that a good Action will lie
+againſt Mr. <hi>Bateman;</hi> for tho' it is free for every man to give his,
+Opinion and Advice to a Friend in private matters, that asks it; yet it is not
+free for any man to go about of<g ref="char:EOLhyphen"/>ficiouſly to undervalue any man's Eſtate or
+Property to the damage of the Owner, as in this Caſe Mr. <hi>Bateman</hi>
+hath done, affirming, that the Proprietors had never a Vein one foot wide, that
+their Oar was good for nothing, and that they themſelves (naming ſome of
+them) were great Cheats, whereby ſeveral Gentlemen confeſs'd, That they
+were diſcouraged from paying in their Money which they had ſubſcribed,
+and others from ſubſcribing at all; if this won't bear an Action, I don't
+know what will, — as to his Reflection on one particular perſon that
+help'd a Gentleman to buy at ſeventeen pound, and ſell at twelve pound, he
+is deſired to name the party, and the time, and the Circumſtances of the
+Caſe; for it is hard that all thoſe Gentlemen ſhould lie under Cenſure
+for every ſingle Contrivance amongſt ſo great a number of Partners, or
+perhaps for none at all, but a mere Suggeſtion; and as to thoſe Gentlemen
+re<g ref="char:EOLhyphen"/>fuſing any Shares at twelve pound a piece, except ſome that are under
+prior Mortgages, Sir <hi>Thomas</hi> and Sir <hi>H.</hi> M. will give Mr.
+<hi>Bate<g ref="char:EOLhyphen"/>man</hi> one hundred pound for every Share he can prove they ſo
+re<g ref="char:EOLhyphen"/>fuſed, which is good encouragement for him to ſpeak out; he will be a
+great while getting ſo much money by his Salary at fifty pound <hi>per
+Annum,</hi> and therefore I would not adviſe him to be ſhy and loſe ſo
+good an Offer.</p>
+            <p>As to the Computation of the Value of the Northern Oars, we 
+<pb facs="tcp:46546:3"/>wiſh they were twice as rich as he makes them, being of Opinion
+with Mr. <hi>Bateman</hi> and Mr. <hi>Whiſton,</hi> that there is no danger,
+but there will be a ſufficient Vent for all the Lead that can be raiſed in
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales;</hi> and therefore having anſwered his
+under-value of the <hi>Welſh</hi>-Oars, upon which his Calculation depends, I
+ſhall not ſay any more to that particular, tho' ſome Perſons better
+skill'd in thoſe Affairs, ſtand amaz'd at his Confidence.</p>
+            <p>Mr. <hi>Bateman</hi> makes a great Harrangue upon a ſuppoſed
+miſtake, that the Authors of the Anſwers to the Objections, were but
+late<g ref="char:EOLhyphen"/>ly informed of his Reflections on the Mines; <hi>whereas,</hi> he ſays,
+<hi>they knew his Opinion long ago;</hi> but tho' this is not material to the
+merits of the Cauſe, yet a Man is glad to catch hold upon every Twig when he
+is a Sinking: But how does this agree with the Poſtſcript! which tells you,
+that immediately upon his being rejected, he vented his revenge in
+diſparaging the Mine: Now tho' he would not recon<g ref="char:EOLhyphen"/>cile this matter, I can do
+it very eaſily; for it appears by that Pa<g ref="char:EOLhyphen"/>per, that the ſame was writ by
+Sir <hi>Th.</hi> and Sir <hi>H. M.</hi> and that they were Strangers to Mr.
+<hi>Bateman,</hi> and but lately heard of Mr. <hi>Bate<g ref="char:EOLhyphen"/>man</hi>'s Reflections;
+but the Committee heard on't long ago, as the Paper it ſelf expreſſes;
+but he makes what Perſons he pleaſes to be Authors of that Paper, only to
+furniſh himſelf with Arguments to reflect upon them.</p>
+            <p>But in Stating the Poſtſcript, he has been pleas'd to ſhew
+another peice of his Skill; for he leaves out the chief Complaint againſt
+him; that he had affirmed, there was never a Vein one Foot wide in Oar, and
+ſays not one word on that matter, becauſe he knows we have it under his own
+Hand, that it was three Foot wide in Oar when he was there, at which time the
+Vein was then in a ſwitch, but afterwards came to be Six Foot wide again;
+ſee the Paper of the Affidavits, where this matter, is largely handled, and
+fully ex<g ref="char:EOLhyphen"/>plained, without any the leaſt Anſwer to it from Mr.
+<hi>Bateman.</hi>
+            </p>
+            <p>And as to his being three or four days in the Country, 'tis very
+true he was ſo, but he ſpent his time in viewing and adviſing about the
+cutting of Tridole Pill, a ridiculous Project, which would have coſt a great
+deal of Money to no purpoſe, for the Sea would have filled it up again with
+Sand, <hi>&amp;c.</hi> as ſoon as finiſhed; and after<g ref="char:EOLhyphen"/>wards about viewing
+the Mills, and ſurveying Ground for Building of Huts, <hi>&amp;c.</hi> but
+was really in and upon this Mountain not above three or four Hours, as
+ſeveral Witneſſes can teſtify. And whilſt he was there, he
+ſufficiently diſcovered to all the Company how little he was acquainted
+with a Mine; for when Mr. <hi>Waller</hi> had ſhewed him the ſeveral Veins,
+and particularly the Bog-Vein, out of which was then rais'd about 200 Tun of
+Oar (and of which he ſays not one word) and ſhewed him another place, where
+the ſame Vein appeared again at a great diſtance: He ſtaid till Mr.
+<hi>Wal<g ref="char:EOLhyphen"/>ler</hi> was gone out of Hearing, as he thought, and then calls to the
+Workman he brought with him, and asked him, is this a Vein? I God knows, ſays
+the Miner, and a large Vein too, Don't you ſee it before your Eyes? But alas
+Mr. <hi>Bateman</hi> had ſeen the Veins ſo deep in the North, that he did
+not underſtand a Vein ſo near the Sur<g ref="char:EOLhyphen"/>face of the Ground, tho' he ſaw it;
+and whereas he deſires an Affi<g ref="char:EOLhyphen"/>davit, expreſſing that he was never
+under-ground; there is no Bo<g ref="char:EOLhyphen"/>dy ever ſaid ſo; but the Poſtſcript
+ſays, he was never employed under-ground, but only as Clerk to a Lead-work:
+Now there is a great difference between being employed as a Grow-Steward, in
+directing the Works under-ground, and being employed as a Clerk in keeping the
+Accounts above-ground; and this he knows well e<g ref="char:EOLhyphen"/>nough, but that he has a
+particular way with him, of making Ob<g ref="char:EOLhyphen"/>ſervations which are nothing to the
+purpoſe.</p>
+            <p>And now I deſire to know where the mark ought to be placed? upon
+this Project, or upon his Fore-head? and who thoſe Perſons are that have
+Fiction for their Foundation? whether they that have made Proof of the matters
+of Fact, or they who have made none? they who aſſert notorious Falſities,
+contrary to their own Letters, or they whoſe Words and Actions agree
+together? I appeal to e<g ref="char:EOLhyphen"/>very diſintereſted Perſon, whether there is any
+thing like Anger or Satyr in all Sir <hi>H. M</hi>'s Papers; but as in all
+other Caſes, of the <hi>Million-Lottery,</hi> and the like, Abſtracts were
+made of the Act of Parliament, for conveniency of Poſtage, and farther
+Explanation of the Undertaking; ſo in this Two Settlements were required to
+be Executed, and then Abſtracts of thoſe Settlements were abſo<g ref="char:EOLhyphen"/>lutely
+neceſſary to be Printed; and the World had been troubled with no more, but
+that Objections raiſed by this <hi>Bateman</hi> and others, compelled the
+ſame Author to give an Anſwer to them; and alſo to Print Affidavits and
+other Proofs of the matters of Fact, and this he calls haranguing Men into a
+good Opinion of the Mine.</p>
+            <p>But what can give a greater Demonſtration of the Fair<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs of this Undertaking, then all
+theſe Proceedings? The Books for taking Sub<g ref="char:EOLhyphen"/>ſcriptions were opened the 3d
+of <hi>October,</hi> and ſhut up in 3 days; whereas moſt Perſons believe,
+that if they had been kept open three days longer, the Books had been full; and
+this was done to give the World more time to be ſatisfied, and fully
+informed; and then, at the time appointed, on the 2d of <hi>Nov.</hi> the Books
+were opened again, at which time there was ſo great a Crowd, that it is well
+known, that a Noble Lord, and ſeveral other Perſons of Quality, were forced
+to wait a long time before they could get to the Books; and when all was
+Subſcribed to Five or Six thouſand Pounds, which was done in 3 days more,
+the Books were ſhut up again; purely out of reſpect to thoſe Gentlemen
+that were then in the Country, and not come up to Town; for the Undertakers
+being entirely ſatisfied of the great Advantages that would (in all humane
+probability) accrew to all the Adventurers; were ſo far from doing it in a
+fit and ſpurt, as Mr. <hi>Bate<g ref="char:EOLhyphen"/>man</hi> will have it, that they ſeveral
+times adjourned the days of Sub<g ref="char:EOLhyphen"/>ſcriptions, to give all Perſons more time
+to be fully informed in the matter: and thoſe that will look over the Books,
+will find ſeveral Perſons of great Judgment and Knowledge in Mineral Works
+who have Subſcribed ſeveral times, one after another, as they had time and
+leiſure to be more fully informed: And it is well know, that Sir <hi>Th.</hi>
+and <hi>H. M.</hi> has ſeveral times at the General Meeting
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fered, that in caſe any perſons
+were diſſatisfied in the Undertaking, Sir <hi>Th.</hi> and Sir <hi>H.</hi>
+were willing to return back their Money; which
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſcribers were ſo far from accepting, that they
+immediately made an Order to the contrary.</p>
+            <p>And yet this Gent. who they never had the honour to ſee an their
+Lives, is pleaſed not only to abuſe the old Partners, but all the
+Sub<g ref="char:EOLhyphen"/>ſcribers too; as if all thoſe Honourable Perſons, who upon
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Deliberation and full Inquiry
+into the matter of Fact have engaged in this Undertaking, as well for the
+publick good of the whole Kingdom, as their own particular advantage, were all
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company of meer
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> acting in a Fit or Spurt of
+meer Credulity and Inconſideration.</p>
+            <p>
+               <hi>If ſuch a Perſon as this be Co<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>enanc'd, I cann't tell
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Ho<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and Reputation<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <pb facs="tcp:46546:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
